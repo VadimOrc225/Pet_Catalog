@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.Scanner;
 
-public class HumanFriendsView {
+public class HumanFriendsView {     // View   задает интерфейс
     Scanner iScanner = new Scanner(System.in);
 
     public char getInputOperator() {

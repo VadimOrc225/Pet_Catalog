@@ -2,7 +2,7 @@ package PetsAll;
 
 import java.util.ArrayList;
 
-public class Pets extends HumanFriend {
+public class Pets extends HumanFriend {         // класс согласно диаграмме
     public static class Cat extends Pets {
         private final String type = "Кошка";
         private ArrayList<Cat> catalogCat = new ArrayList<>();

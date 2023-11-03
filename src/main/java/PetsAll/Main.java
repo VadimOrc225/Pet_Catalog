@@ -1,6 +1,6 @@
 package PetsAll;
 
-public class Main {
+public class Main {                     //  основной класс
     public static void main(String[] args) {
         HumanFriend model = new HumanFriend();
         HumanFriendsView view = new HumanFriendsView();

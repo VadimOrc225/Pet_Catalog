@@ -3,8 +3,8 @@ package PetsAll;
 import java.time.LocalDate;
 import java.util.ArrayList;
 
-public class HumanFriendsPresenter {
-    private HumanFriend model;
+public class HumanFriendsPresenter {              // PRESENTER
+    private HumanFriend model;                        // "Видит" model и view
     private HumanFriendsView view;
 
     public HumanFriendsPresenter(HumanFriend model, HumanFriendsView view) {

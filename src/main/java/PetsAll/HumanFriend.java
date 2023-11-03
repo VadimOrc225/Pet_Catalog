@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 
 
-public class HumanFriend {
+public class HumanFriend {      // MODEL
     private String id;
     private String name;
     private LocalDate birthDate;
